@@ -10,19 +10,16 @@ namespace LinkedListOperations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Linked List Operations");
-            //UseCase 1
+            Console.WriteLine("Welcome to the Linked List operation");
             Operation obj = new Operation();
             //Insertion Operation
-            obj.InsertFront(56);
-            obj.InsertFront(30);
-            obj.InsertFront(70);
+            obj.InsertLast(56);
+            obj.InsertBetween(2, 30);
+            obj.InsertLast(70);
             //Display Operation
-            Console.WriteLine("Insertion at First");
+            Console.WriteLine("*****Appending*****");
             obj.Display();
             Console.ReadLine();
-
-
         }
     }
 }
