@@ -11,7 +11,6 @@ namespace LinkedListOperations
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Linked List Operations");
-            Console.WriteLine("****WELCOME TO LINKED LIST OPERATIONS");
             Console.WriteLine("\n1.Inserted into list(From Last)");
             Console.WriteLine("\n2.Inserted into list(Front)");
             Console.WriteLine("\n3.Inserting in middle");
