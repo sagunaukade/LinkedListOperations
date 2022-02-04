@@ -8,6 +8,7 @@ namespace LinkedListOperations
 {
     internal class Node
     {
+        //creating Node
         public int data;
         public Node next;
 
