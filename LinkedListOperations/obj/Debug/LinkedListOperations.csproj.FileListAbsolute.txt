@@ -1,0 +1,8 @@
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\obj\Debug\LinkedListOperations.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\obj\Debug\LinkedListOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\obj\Debug\LinkedListOperations.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\bin\Debug\LinkedListOperations.exe.config
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\bin\Debug\LinkedListOperations.exe
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\bin\Debug\LinkedListOperations.pdb
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\obj\Debug\LinkedListOperations.exe
+C:\Users\ganes\source\repos\FELLOWSHIP\LinkedListOperations\LinkedListOperations\LinkedListOperations\obj\Debug\LinkedListOperations.pdb
